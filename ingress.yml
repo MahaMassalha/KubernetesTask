@@ -25,4 +25,4 @@ spec:
               service:
                 name: ynet-service
                 port:
-                  number: 5
+                  number: 5000
