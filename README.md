@@ -17,28 +17,24 @@ Both apps were dockerized on dockerhub :
 
 ## **Running The Apps on Minikube:**
 
-1. **Clone This Repository.**
-- git clone https://github.com/Dima-Nakhleh/Kubernetes-Ingress.git
-2. **Go to the project directory:**
-- cd Kubernetes-Ingress
-3. **Start Minikube:**
-- minikube start
-4. **apply deployment:**
-- kubectl apply -f .
-5. **Enable ingress addon:**
-- minikube addons enable ingress
-6. **Start minikube tunnel:**
-- minikube tunnel
+1. **Clone This Repository.** : git clone https://github.com/MahaMassalha/KubernetesTask.git
+
+2. **Go to the project directory:** : cd KubernetesTask
+
+3. **Start Minikube:** : minikube start
+
+4. **Enable ingress addon:** : minikube addons enable ingress
+
+5. **Insert deployments:** : kubectl apply -f
+
+6. **Start minikube tunnel:** : minikube tunnel
 
 
-
-[![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/get%20po3.GIF")
-
-## **You can now access the apps from you browser at :** 
-## - http://localhost/ynet
+### **Now you can access the apps from you browser at :** 
+##### - http://localhost/ynet
 
 [![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF")
 
-## - http://localhost/bitcoin
+##### - http://localhost/bitcoin
 
 [![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF")
