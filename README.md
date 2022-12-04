@@ -33,7 +33,8 @@ Both apps were dockerized on dockerhub :
 ### **Now you can access the apps from you browser at :** 
 ##### - http://localhost/ynet
 
-[![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/ynet.GIF")
+![image](https://user-images.githubusercontent.com/96788273/205508314-088f6ab3-1829-418d-8884-72794d63a3a2.png)
+
 
 ##### - http://localhost/bitcoin
 
