@@ -38,4 +38,5 @@ Both apps were dockerized on dockerhub :
 
 ##### - http://localhost/bitcoin
 
-[![https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF")](https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF "https://github.com/Dima-Nakhleh/Kubernetes-Ingress/blob/main/images/bitcoin.GIF")
+![image](https://user-images.githubusercontent.com/96788273/205508740-cc39bc9e-6f24-49ff-a4f0-33755df03bf0.png)
+
